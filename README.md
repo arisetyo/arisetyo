@@ -5,7 +5,8 @@ I am **Arie M. Prasetyo**, currently the Tech Lead - Web at GoPlay Indonesia.
 - 🏢 My responsibilities require me to work a lot with Confluence, LucidChart, spreadsheets, etc. But I still love to code.
 - 🔭 Mostly I code with JavaScript (React, Next, Node) and CSS (vanilla flavor, the best!)
 - 🌱 I’m currently learning data visualisation, using the wonderful D3 (data-driven document) library
-- 🔬 This is due to interest is in data visualisation and UI/X engineering
+- 🔬 This is due to my interest in data visualisation and UI/X engineering. If you do too, let's chat!
+- ⚡ Fun fact: I used to develop web games using the Adobe Flash framework. Man, those were the days...
 
 ## How to reach me
 
