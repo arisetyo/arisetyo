@@ -2,13 +2,14 @@
 
 I am **Arie M. Prasetyo**, currently the Tech Lead - Web at GoPlay Indonesia.
 
-- 🔭 Mostly I work with JavaScript (React, Next, Node) and CSS (vanilla flavor, the best!)
-- 🌱 I’m currently learning data visualisation using D3
-- 🔬 My interest is in data visualisation and UI/X engineering
+- 🏢 My responsibilities require me to work a lot with Confluence, LucidChart, spreadsheets, etc. But I still love to code.
+- 🔭 Mostly I code with JavaScript (React, Next, Node) and CSS (vanilla flavor, the best!)
+- 🌱 I’m currently learning data visualisation, using the wonderful D3 (data-driven document) library
+- 🔬 This is due to interest is in data visualisation and UI/X engineering
 
 ## How to reach me
 
-Email: ari.setyo@gmail.com
+Email: ari.setyo@gmail.com or mochamad.prasetyo@gojek.com
 
 Twitter: [arie_m_prasetyo](https://twitter.com/arie_m_prasetyo)
 
