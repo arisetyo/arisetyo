@@ -14,7 +14,7 @@ Email: ari.setyo@gmail.com or mochamad.prasetyo@gojek.com
 
 Twitter: [arie_m_prasetyo](https://twitter.com/arie_m_prasetyo)
 
-Blog: [Arie M. Prasetyo](https://arie-m-prasetyo.medium.com/)
+Technical blog: [Arie M. Prasetyo](https://arie-m-prasetyo.medium.com/)
 
 <!--
 **arisetyo/arisetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
