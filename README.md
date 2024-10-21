@@ -1,6 +1,6 @@
 # Halo! Hello! Salut! 👋
 
-I am **Arie M. Prasetyo**, a senior development manager and software engineer. My tenure includes Education Horizons (in Australia), GoPlay (GoTo group), & Zenius Education. Currently I am embarking on a new journey, getting back to my roots in consultancy. While still doing creative development and learning new technologies on the weekends.
+I am **Arie M. Prasetyo**, a senior development manager and software engineer. My tenure includes Education Horizons (Perth, Australia), GoPlay (GoTo group), & Zenius Education. Currently I am embarking on a new journey, getting back to my roots in consultancy. While still doing creative development and learning new technologies on the weekends.
 
 - 🏢 My responsibilities require me to work a lot with Confluence, JIRA, Notion, LucidChart, spreadsheets, etc. You know, management stuff.
 - But I still love to code!
@@ -16,6 +16,8 @@ Email: ari.setyo@gmail.com
 X: [@arisetyo_v2](https://twitter.com/arisetyo_v2)
 
 Technical blog: [Arie M. Prasetyo](https://arie-m-prasetyo.medium.com/)
+
+LinkedIn: [Arie M. Prasetyo](https://www.linkedin.com/in/arie-m-prasetyo/)
 
 <!--
 **arisetyo/arisetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
