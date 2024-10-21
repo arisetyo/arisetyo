@@ -3,11 +3,12 @@
 I am **Arie M. Prasetyo**, a senior development manager and software engineer. My tenure includes Education Horizons (Perth, Australia), GoPlay (GoTo group), & Zenius Education. Currently I am embarking on a new journey, getting back to my roots in consultancy. While still doing creative development and learning new technologies on the weekends.
 
 - 🏢 My responsibilities require me to work a lot with Confluence, JIRA, Notion, LucidChart, spreadsheets, etc. You know, management stuff.
-- But I still love to code!
+- 😄 But I still love to code!
 - 🔭 Most of my career I code with JavaScript. At the moment in my spare time I make stuff with CSS & Python.
 - 🌱 I’m currently want to learn more on OpenGL Shading Language & data visualisation.
-- 🔬 This is due to my interest in the web as a platform for art and information
-- ⚡ Fun fact: I used to develop web games using the Adobe Flash framework. Man, those were the days...
+- 🔬 This is due to my interest in the web as a platform for art and information.
+- 👯 Fun fact: You might know me in the past from oldies such as FOWAB, Gamelan, and Ohdio. I think DailySocial still have some articles on them.
+- ⚡ Fun fact 2: I used to develop web games using the Adobe Flash framework. Man, those were the days...
 
 ## How to reach me
 
